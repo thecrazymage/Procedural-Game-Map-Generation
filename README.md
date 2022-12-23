@@ -9,9 +9,9 @@
 
 ## Модель карты ##
 Общая структура карты города будет выглядеть следующим образом (красным выделены двери домов):
-<figure align="center">
-  <img src = "images/General_structure_of_the_city_map.png" width = "500"/>
-</figure>
+<p align="center">
+    <img src="images/General_structure_of_the_city_map.png" width = "500">
+</p>
 
 Рисоваться карта будет в текстовом редакторе "Блокнот" и будут использованы следующие обозначения:
 * "*" - границы города;
