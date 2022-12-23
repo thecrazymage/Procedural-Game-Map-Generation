@@ -36,14 +36,14 @@
 
 Три разные реализация модели для параметров height = 45, width = 60, wideCount = 3, heightCount = 3, diffPercent = 0.25, roadSize = 2, housePercent = 0.33 выглядят так:  
 1. 
-  <figure align="center">
-    <img src = "images/Example1.png" width = "300"/>
-  </figure>
-2.  
-  <figure align="center">
-    <img src = "images/Example2.png" width = "300"/>
-  </figure>
-3.  
-  <figure align="center">
-    <img src = "images/Example3.png" width = "300"/>
-  </figure>
+  <p align="center">
+      <img src="images/Example1.png">
+  </p>
+2. 
+  <p align="center">
+      <img src="images/Example2.png">
+  </p>
+3. 
+  <p align="center">
+      <img src="images/Example3.png">
+  </p>
