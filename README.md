@@ -37,7 +37,7 @@
 Три разные реализация модели для параметров height = 45, width = 60, wideCount = 3, heightCount = 3, diffPercent = 0.25, roadSize = 2, housePercent = 0.33 выглядят так:
 
 1. 
-  <figure align="center"> 
+  <figure align="center">
     <img src = "images/Example1.png" width = "300"/>
   </figure>
 2. 
