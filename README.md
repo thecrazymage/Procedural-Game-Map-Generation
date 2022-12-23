@@ -39,11 +39,11 @@
   <figure align="center">
     <img src = "images/Example1.png" width = "300"/>
   </figure>
-2. 
+2.  
   <figure align="center">
     <img src = "images/Example2.png" width = "300"/>
   </figure>
-3. 
+3.  
   <figure align="center">
     <img src = "images/Example3.png" width = "300"/>
   </figure>
