@@ -39,8 +39,8 @@
 Результаты работы для параметров height = 45, width = 60, wideCount = 3, heightCount = 3, diffPercent = 0.25, roadSize = 2, housePercent = 0.33 можно увидеть на Рис. 2.
 
 <figure align="center">
-  <img src = "images/Example1.png" width = "300"/>
-  <img src = "images/Example2.png" width = "300"/>
-  <img src = "images/Example3.png" width = "300"/>
+  <img src = "images/Example1.png" width = "200"/>
+  <img src = "images/Example2.png" width = "200"/>
+  <img src = "images/Example3.png" width = "200"/>
   <figcaption>Рисунок 2. Три разные реализация модели карты для одних и тех же параметров </figcaption>
 </figure>
